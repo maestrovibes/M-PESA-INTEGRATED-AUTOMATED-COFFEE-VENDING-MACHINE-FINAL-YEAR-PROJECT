@@ -15,4 +15,4 @@ d)	To test the reliability of the automated coffee vending machine.
 
 **PROJECT SCOPE**
 
-This project covers development an automated coffee vending machine that can securely and accurately dispense one type of coffee. This machine is specifically designed for the Kenyan market due to its M-PESA payments feature and it can remain operational for 24 hours a day. The payment system supports M-PESA STK as the primary payment method for the vending machine.
+This project covers development of an automated coffee vending machine that can securely and accurately dispense one type of coffee. This machine is specifically designed for the Kenyan market due to its M-PESA payments feature and it can remain operational for 24 hours a day. The payment system supports M-PESA STK as the primary payment method for the vending machine.
