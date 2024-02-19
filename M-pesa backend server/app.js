@@ -174,7 +174,7 @@ function createToken() {
 
 
 mongoose
-.connect("mongodb+srv://kelvinmavyuva:mern@cluster0.zafgeda.mongodb.net/"
+.connect("mongoDBlink"
 )
 .then(() => app.listen(5000))
 .then(() => 
